@@ -1,7 +1,7 @@
-### Hi there 👋
+### there you are
+sadeq safdary , java dev , back-end java dev , microservice designer , sysadmin
 
-<!--
-**sadeq220/sadeq220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **sadeq220/sadeq220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+i love  ✨linux✨ , i interested in web security and microservices
+- 🔭 I’m currently working on netword+
+- my next step will be linux LPIC-2
+- ![Alt Text](https://media.giphy.com/media/8ju8TNTNzZ3Dq/source.gif)
