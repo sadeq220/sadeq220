@@ -1,5 +1,6 @@
 ### there you are
 sadeq safdary , java dev , back-end java dev , microservice designer(not yet) , sysadmin (not yet)
+### I have a moderate expertise on java-8 , hibernate & jpa , spring data , spring security , spring boot , spring MVC , SQL (specifically MYSQL) , GIT , HTML & CSS , servlet & JSP
 
 I love linux:heart: , i interested in web security and microservices
 - I’m currently working on microservices,network+
