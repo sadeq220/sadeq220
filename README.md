@@ -1,4 +1,4 @@
-### <h1 align='center'>there you are</h1>
+### <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 sadeq safdary , java dev , back-end java dev , microservice designer(not yet) , DevOps engineer (not yet)
 ### I have a moderate expertise on java-8 , hibernate & jpa , spring data , spring security , spring AOP , spring core , spring boot , spring MVC , SQL (specifically MYSQL) , GIT , HTML & CSS , servlet & JSP , docker
 <table>
@@ -34,5 +34,5 @@ I love linux:heart: , i interested in web security and microservices
 
 <!--<span align='center'> ![Alt Text](https://media.giphy.com/media/8ju8TNTNzZ3Dq/source.gif) </span>-->
 
-#### Thanks for visiting :heart:
+#### Thanks for visiting
 ![VisitorCount](https://profile-counter.glitch.me/sadeq220/count.svg)
