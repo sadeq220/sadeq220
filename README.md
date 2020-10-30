@@ -7,3 +7,6 @@ I love linux:heart: , i interested in web security and microservices
 - my next step will be 'reactive programming' ,linux LPIC-2
 
 <span align='center'> ![Alt Text](https://media.giphy.com/media/8ju8TNTNzZ3Dq/source.gif) </span>
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/sadeq220/count.svg)
