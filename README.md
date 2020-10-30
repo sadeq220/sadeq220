@@ -5,24 +5,24 @@ sadeq safdary , java dev , back-end java dev , microservice designer(not yet) , 
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
 </td>
 <td align="center" width="33%">
-  <img height=60px src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
+  <img height=100px src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
    </td>
 </tr>
   <tr>
   <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> 
 </td>
 <td align="center" width="33%">
-  <img height=60px src="https://www.vectorlogo.zone/logos/docker/docker-official.svg">
+  <img height=100px src="https://www.vectorlogo.zone/logos/docker/docker-official.svg">
    </td>
   </tr>
 </tbody>
