@@ -29,7 +29,7 @@
 </table>
 
 I love linux:heart: , i interested in web security and cloud native methodology
-- I’m currently working on microservice patterns ank asynchronous messaging
+- I’m currently working on microservice patterns and asynchronous messaging
 - my next step will be 'reactive programming' ,OAuth2
 
 <!--<span align='center'> ![Alt Text](https://media.giphy.com/media/8ju8TNTNzZ3Dq/source.gif) </span>-->
