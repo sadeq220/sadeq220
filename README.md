@@ -1,6 +1,7 @@
-### <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-### Hi , i am sadeq safdary , java dev , back-end java dev , microservice patterns And architecture developer
-#### I have a moderate expertise on java-11 ,apache kafka , hibernate & jpa , spring data , spring security , spring AOP , spring core , spring boot , spring MVC, Jackson Library , Restful-API , SQL (specifically MYSQL), Redis , Docker , GIT , HTML & CSS , servlet & JSP
+### <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>    
+Interested in `web security` and `cloud native` methodology.    
+Dedicated to crafting robust and scalable solutions that drive innovation and efficiency.    
+Let's build the future, one line of code at a time! 🚀
 <table>
 <tbody>
  <tr>
@@ -16,7 +17,7 @@
 </tr>
   <tr>
   <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> 
 </td>
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> 
@@ -28,9 +29,8 @@
 </tbody>
 </table>
 
-I love linux:heart: , i interested in web security and cloud native methodology
-- I’m currently working on microservice patterns and asynchronous messaging
-- my next step will be 'reactive programming' ,OAuth2
+- I’m currently working on code design
+- My next step will be 'reactive programming',OAuth2
 
 <!--<span align='center'> ![Alt Text](https://media.giphy.com/media/8ju8TNTNzZ3Dq/source.gif) </span>-->
 
