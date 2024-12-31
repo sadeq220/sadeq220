@@ -1,4 +1,4 @@
-### <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>    
+### Sadeq Safdari
 Interested in `web security` and `cloud native` methodology.    
 Dedicated to crafting robust and scalable solutions that drive innovation and efficiency.    
 Let's build the future, one line of code at a time! 🚀
@@ -29,8 +29,8 @@ Let's build the future, one line of code at a time! 🚀
 </tbody>
 </table>
 
-- I’m currently working on code design
-- My next step will be 'reactive programming',OAuth2
+- I’m currently working on my website, check it out at [zzip file sharing](https://zzip.ir)
+- My next step will be learning ways for better SEO 
 
 <!--<span align='center'> ![Alt Text](https://media.giphy.com/media/8ju8TNTNzZ3Dq/source.gif) </span>-->
 
