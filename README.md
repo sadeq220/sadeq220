@@ -1,7 +1,13 @@
 ### Sadeq Safdari
-Interested in `web security` and `cloud native` methodology.    
-Dedicated to crafting robust and scalable solutions that drive innovation and efficiency.    
-Let's build the future, one line of code at a time! 🚀
+`Java Software Engineer` with **over 5 years of Experience**, worked on 5 distinct enterprise projects.    
+Focusing on spring-boot microservice architecture and Data-Intensive Apps.   
+I care about code quality, stick to *design principles and best practices*, and deliver results.    
+Interested in `enterprise projects` and `cloud native` methodology.    
+I have deeply studied and practiced how Real-World Web-Apps work under the hood.
+from front-end technologies to
+Microservice spring-boot Java apps to
+Linux server with its tools and daemons😈
+And I'm eager to learn MORE.
 <table>
 <tbody>
  <tr>
