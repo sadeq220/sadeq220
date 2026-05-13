@@ -29,10 +29,9 @@ Let's build the future, one line of code at a time! 🚀
 </tbody>
 </table>
 
-- I’m currently working on my website, check it out at [zzip file sharing](https://zzip.ir)
+- I’m currently working on js, react, and nextjs
 - My next step will be learning ways for better SEO 
 
 <!--<span align='center'> ![Alt Text](https://media.giphy.com/media/8ju8TNTNzZ3Dq/source.gif) </span>-->
 
 #### Thanks for visiting
-![VisitorCount](https://profile-counter.glitch.me/sadeq220/count.svg)
