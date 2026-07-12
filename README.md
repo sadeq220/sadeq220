@@ -1,14 +1,14 @@
-### Sadeq Safdari
+## Sadeq Safdari
 `Java Software Engineer` with **over 5 years of Experience**, worked on 5 distinct enterprise projects.    
-Focusing on spring-boot microservice architecture and Data-Intensive Apps.   
+Focusing on spring-boot microservice architecture and High-throughput Apps.   
 Interested in `enterprise projects` and `cloud native` methodology.    
 
-#### I care about code quality, stick to *design principles and best practices*, and deliver results.    
-#### I have deeply studied and practiced how Real-World Web-Apps work under the hood.    
+### I care about code quality, stick to *design principles and best practices*, and deliver results.    
+### I have deeply studied and practiced how Real-World Web-Apps work under the hood.    
 from front-end technologies to
 Microservice spring-boot Java apps to
-Linux server with its tools and daemons😈    
-### And I'm eager to learn MORE.
+Linux server with its tools and daemons   
+
 <table>
 <tbody>
  <tr>
@@ -36,8 +36,8 @@ Linux server with its tools and daemons😈
 </tbody>
 </table>
 
-- I’m currently working on js, react, and nextjs
-- My next step will be learning ways for better SEO 
+- I’m currently working on Observability 
+- My next step will be Document Model deep learning
 
 <!--<span align='center'> ![Alt Text](https://media.giphy.com/media/8ju8TNTNzZ3Dq/source.gif) </span>-->
 
